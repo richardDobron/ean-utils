@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="C:\data\oss\ean-utils\phpunit.xml.dist" tests="17" assertions="32" errors="0" failures="0" skipped="0" time="0.020896">
+    <testsuite name="Test Suite" tests="17" assertions="32" errors="0" failures="0" skipped="0" time="0.020896">
+      <testsuite name="TransportMarkersTest\EansGeneratorsTest" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" tests="17" assertions="32" errors="0" failures="0" skipped="0" time="0.020896">
+        <testsuite name="TransportMarkersTest\EansGeneratorsTest::testGenerateAndValidate" tests="11" assertions="26" errors="0" failures="0" skipped="0" time="0.017746">
+          <testcase name="testGenerateAndValidate with data set #0" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="44" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="2" time="0.014510"/>
+          <testcase name="testGenerateAndValidate with data set #1" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="44" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="2" time="0.000373"/>
+          <testcase name="testGenerateAndValidate with data set #2" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="44" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="2" time="0.000251"/>
+          <testcase name="testGenerateAndValidate with data set #3" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="44" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="2" time="0.000233"/>
+          <testcase name="testGenerateAndValidate with data set #4" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="44" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="3" time="0.000943"/>
+          <testcase name="testGenerateAndValidate with data set #5" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="44" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="3" time="0.000313"/>
+          <testcase name="testGenerateAndValidate with data set #6" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="44" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="2" time="0.000247"/>
+          <testcase name="testGenerateAndValidate with data set #7" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="44" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="2" time="0.000219"/>
+          <testcase name="testGenerateAndValidate with data set #8" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="44" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="2" time="0.000209"/>
+          <testcase name="testGenerateAndValidate with data set #9" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="44" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="3" time="0.000224"/>
+          <testcase name="testGenerateAndValidate with data set #10" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="44" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="3" time="0.000224"/>
+        </testsuite>
+        <testsuite name="TransportMarkersTest\EansGeneratorsTest::testInvalidInputs" tests="6" assertions="6" errors="0" failures="0" skipped="0" time="0.003150">
+          <testcase name="testInvalidInputs with data set #0" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="75" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="1" time="0.002089"/>
+          <testcase name="testInvalidInputs with data set #1" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="75" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="1" time="0.000261"/>
+          <testcase name="testInvalidInputs with data set #2" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="75" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="1" time="0.000209"/>
+          <testcase name="testInvalidInputs with data set #3" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="75" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="1" time="0.000192"/>
+          <testcase name="testInvalidInputs with data set #4" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="75" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="1" time="0.000186"/>
+          <testcase name="testInvalidInputs with data set #5" file="C:\data\oss\ean-utils\tests\EansGeneratorsTest.php" line="75" class="TransportMarkersTest\EansGeneratorsTest" classname="TransportMarkersTest.EansGeneratorsTest" assertions="1" time="0.000212"/>
+        </testsuite>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>

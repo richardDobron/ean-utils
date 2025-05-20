@@ -1,0 +1,38 @@
+{
+    "name": "richarddobron/ean-utils",
+    "description": "PHP library to generate and validate EAN-8 and EAN-13 barcodes.",
+    "keywords": [
+        "ean",
+        "ean-13",
+        "ean-8",
+        "eancode",
+        "barcode",
+        "ean-utils"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "dobron\\EanUtils\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Richard Dobroň"
+        }
+    ],
+    "minimum-stability": "dev",
+    "scripts": {
+        "post-merge": "composer install",
+        "tests": "vendor/bin/phpunit --colors=always --testdox"
+    },
+    "scripts-descriptions": {
+        "tests": "Run all tests."
+    },
+    "require": {
+        "php": "^7.0 || ^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=7.0"
+    }
+}
