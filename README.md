@@ -44,8 +44,8 @@ $eanValidator->validate('ABCDEFGH'); // false
 
 ## 🤝 Contributing
 
-We welcome contributions! If you'd like to help improve this project, feel free to open an issue or submit a pull request.
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## 📜 License
 
-The MIT License (MIT). Please see [License File](LICENSE) for more information.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
